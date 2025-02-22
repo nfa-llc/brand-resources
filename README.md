@@ -39,7 +39,7 @@ There is a dark and light version of the logo. The dark version is intended for 
 
 ## Colors
 The primary colors for the _gexbot_ product are black and white. The black color is used for the dark version of the logo, and the white color is used for the light version of the logo.
-See [color.md](https://github.com/nfa-llc/brand-resources/blob/75327183af81c34c6062cabd198bbdf03c60e94a/color.md) for additional colors.
+See [color.md](color.md) for additional colors.
 
 ## Typography
 The primary font for the _gexbot_ product is _Agrandir_. The font weight used are _Regular_. The font is available for download in the `font` directory of this repository.
