@@ -23,7 +23,7 @@ There is a dark and light version of the logo. The dark version is intended for 
 
 <div style="display: flex; justify-content: space-around; flex-direction: column; align-items: center;">
 <div style="margin: 1em;">
-<img src="img/Logos/gexbot/SVG/GexBot_Final-only graphic_White.svg" width="200" alt="gexbot logo">
+<img src="https://github.com/nfa-llc/brand-resources/blob/40121a7fe6f4334264ff88b57fe64afa0b417535/img/logo/gexbot/svg/GexBot_Final-only%20graphic_White.svg" width="200" alt="gexbot logo">
 <img src="img/Logos/gexbot/SVG/GexBot_Finalsvg-only graphic_Black.svg" width="200" alt="gexbot logo">
 </div>
 <div style="margin: 1em;">
@@ -35,6 +35,7 @@ There is a dark and light version of the logo. The dark version is intended for 
 <img src="img/Logos/gexbot/SVG/GexBot_Finalsvg_Inline_black.svg" width="200" alt="gexbot logo">
 </div>
 </div>
+
 
 ## Colors
 The primary colors for the _gexbot_ product are black and white. The black color is used for the dark version of the logo, and the white color is used for the light version of the logo.
