@@ -36,6 +36,18 @@ There is a dark and light version of the logo. The dark version is intended for 
 </div>
 </div>
 
+## Domains
+The primary domain for the _gexbot_ product is [gexbot.com](https://gexbot.com). The domain is used for the product website and the product API.
+
+## Social Media
+#### Twitter/X
+The primary social media account for the _gexbot_ product is the Twitter/X account [@thegexbot](https://twitter.com/thegexbot). The account is used for product updates and announcements and intraday market updates.
+Additional Twitter/X accounts include:
+- [@gexbot15](https://twitter.com/gexbot15) includes intraday market updates.
+- [@gexbot_hist](https://twitter.com/gexbot_hist) includes market changes on a day-to-day timeframe.
+
+#### Discord
+The Discord server for the _gexbot_ product is [gexbot](https://discord.gg/gexbot). The server is used for product updates and announcements, intraday market updates, and community discussions.
 
 ## Colors
 The primary colors for the _gexbot_ product are black and white. The black color is used for the dark version of the logo, and the white color is used for the light version of the logo.
